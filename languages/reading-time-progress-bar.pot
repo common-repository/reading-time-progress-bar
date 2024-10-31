@@ -1,0 +1,132 @@
+# Copyright (C) 2024 Code Canel
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Reading Time & Progress Bar 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-reading-meter\n"
+"POT-Creation-Date: 2024-01-18 09:16:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Reading Time & Progress Bar"
+msgstr ""
+
+#: Plugin.php:240
+msgid "General Settings"
+msgstr ""
+
+#: Plugin.php:245 Plugin.php:324
+msgid "Reading Time"
+msgstr ""
+
+#: Plugin.php:250
+msgid "Progress Bar"
+msgstr ""
+
+#: Plugin.php:255
+msgid "Export, Import and Reset"
+msgstr ""
+
+#: Plugin.php:279
+msgid "Posts"
+msgstr ""
+
+#: Plugin.php:285 includes/admin/WP_Ajax.php:106
+msgid "Single Post"
+msgstr ""
+
+#: Plugin.php:289 includes/admin/WP_Ajax.php:114
+msgid "Archive Page"
+msgstr ""
+
+#: Plugin.php:294
+msgid "Default"
+msgstr ""
+
+#: Plugin.php:317 Plugin.php:321 includes/admin/WP_Ajax.php:129
+msgid "Above The Title"
+msgstr ""
+
+#: Plugin.php:325
+msgid " mins"
+msgstr ""
+
+#: Plugin.php:326
+msgid " min"
+msgstr ""
+
+#: Plugin.php:469
+msgid "Get started now!"
+msgstr ""
+
+#: includes/admin/Export_And_Import.php:32
+#: includes/admin/Export_And_Import.php:106 includes/admin/WP_Ajax.php:57
+#: includes/admin/WP_Ajax.php:157
+msgid "Unauthorized request."
+msgstr ""
+
+#: includes/admin/WP_Ajax.php:110
+msgid "Home/Blog Page"
+msgstr ""
+
+#: includes/admin/WP_Ajax.php:133
+msgid "Below The Title"
+msgstr ""
+
+#: includes/admin/WP_Ajax.php:137
+msgid "Above The Content"
+msgstr ""
+
+#: includes/admin/WP_Ajax.php:141
+msgid "Below The Content"
+msgstr ""
+
+#: includes/utils/Json.php:29
+#. translators: %s: Path to the JSON file.
+msgid "File %s doesn't exist!"
+msgstr ""
+
+#: includes/utils/Json.php:43
+#. translators: 1: Path to the JSON file, 2: Error message.
+msgid "Error when decoding a JSON file at path %1$s: %2$s"
+msgstr ""
+
+#: templates/reading-time-style.php:120
+msgid "Load google font when needed"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://codecanel.com/reading-time-progress-bar"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Track and display the average reading time of your posts. It provides "
+"valuable insights into how long it takes for users to read your content, "
+"helping you optimize your content length and engagement."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Code Canel"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://codecanel.com/"
+msgstr ""
